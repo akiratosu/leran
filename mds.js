@@ -10,7 +10,7 @@
 var MDS_MAIN_CALLBACK = null;
 
 /**
- * Main MINIMA Object for all interaction
+ * Main MINIMA Object for all interraction
  */
 var MDS = {
 	
